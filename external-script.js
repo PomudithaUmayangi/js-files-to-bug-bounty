@@ -1,5 +1,4 @@
-// Simple external JS file for testing
-
+// external-script.js on GitHub
 console.log("External script loaded successfully as hacker one tester!");
 
 // Function to show an alert
